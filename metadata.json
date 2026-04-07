@@ -1,0 +1,5 @@
+{
+  "name": "AI Audio & Video Transcriber",
+  "description": "Upload an audio or video file, specify the language, and get an accurate transcription powered by Gemini. Easily copy the transcribed text to your clipboard.",
+  "requestFramePermissions": []
+}
